@@ -19,7 +19,7 @@ int sum = 0;
     }
   }
   textSize (30);
-  text ("Sum of Dots:" +  sum,90,330);
+  text ("Sum of Dots: " +  sum,90,330);
   }
   void mousePressed()
   {
